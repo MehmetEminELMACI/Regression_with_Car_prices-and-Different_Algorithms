@@ -18,6 +18,8 @@
 
 ## PACKAGES TO BE DOWNLOADED :
 
+* pip install xgboost
+
 * pip install scikit-learn
 
 * pip install seaborn
